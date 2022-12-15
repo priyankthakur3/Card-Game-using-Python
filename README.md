@@ -5,7 +5,7 @@ Name: Priyank Thakur
 
 CWID: 20009546
 
-## Fall 2022 Project: Implement Card Game
+Fall 2022 Project: Implement Card Game
 
 ## Executing Program
 
