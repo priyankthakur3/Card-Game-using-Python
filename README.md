@@ -1,5 +1,5 @@
 
-# CPE 551: Engineering Python
+# Multi Player Card Game with Python 
 
 Name: Priyank Thakur
 
