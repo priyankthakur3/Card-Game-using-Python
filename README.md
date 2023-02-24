@@ -5,11 +5,17 @@ Name: Priyank Thakur
 
 CWID: 20009546
 
+Subject: CPE 551 Engineering Python
+
 Fall 2022 Project: Implement Card Game
 
 ## Executing Program
 
-Run main.py it will start executing program
+Navigate to directory and Run below code it will start execution of game
+
+```
+python main.py
+```
 
 ## Rules of Game
 
